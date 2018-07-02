@@ -5,6 +5,8 @@ docker for Docusaurus
 ## document
 
 - [Docusaurus](https://docusaurus.io/en/)
+- search engine
+    - [algolia](https://www.algolia.com/)
 
 ## Docker
 
